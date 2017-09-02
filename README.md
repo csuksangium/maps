@@ -12,7 +12,7 @@ Lowest zoom level pins
 ![img](http://i.imgur.com/UHR6lF0.png)
 
 Middle zoom level pins
-![img](http://i.imgur.com/EHLtXm0.png)
+![img](http://i.imgur.com/EHLtXm0.png?1)
 
 
 2. Upon selecting a property pin, property information card appears at selected location, covering up neigbouring properties thus preventing users from conveniently comparing nearby property prices.
