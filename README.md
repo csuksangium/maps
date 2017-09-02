@@ -17,7 +17,7 @@ This redesign exploration aims to improve the map's functionality and user-exper
 
 2. Implementation of property cards: property cards appear upon selection at the bottom of the screen to not obstruct neighbouring properties.
 
-With those fixes in mind and 10 explorations created, we proposed 2 concepts. 
+With those fixes in mind and 10 explorations created, 2 concepts were proposed. 
 
 # Concept 1
 Concept 1 is the less farfetched exploration among the two because it maintains most of Agoda's current elements, but addresses the issues while also introducing new features to enhance user-experience. The idea behind this concept is
