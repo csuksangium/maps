@@ -11,7 +11,7 @@ The following prototypes are made using: Sketch, Adobe Illustrator, FramerJS, an
 2. Upon selecting a property pin, property information card appears at selected location, covering up neigbouring properties thus preventing users from conveniently comparing nearby property prices.
 
 # Steps We Took to Address the Issues
-1. Pin redesign: new pin is introduced to contain property price, which is believed to be the most important information for customers when it comes to choosing a property. However, larger pin means that pins would be cluttered and overlapping at lower zoom levels, so this was another problem that came up.
+1. Pin redesign: new pin is introduced to contain property price, which is believed to be the most important information for customers when it comes to choosing a property. However, larger pin means that pins would be cluttered and overlapping at lower zoom levels, so this was another problem to consider in the exploration.
 
 2. Implementation of property cards: property cards appear upon selection at the bottom of the screen to not obstruct neighbouring properties.
 
