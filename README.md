@@ -1,5 +1,5 @@
 # Agoda Maps Exploration and Redesign
-My works and contributions in Agoda's mobile-application map redesign and exploration as a UX Prototyper Intern in collaboration with UX Designers, UX Researchers, and Product Owners during summer 2017.=
+My works and contributions in Agoda's mobile-application map redesign and exploration as a UX Prototyper Intern in collaboration with UX Designers, UX Researchers, and Product Owners during summer 2017.
 
 Agoda's current state of map in mobile applications (Android and iOS) demands redesign, so I was tasked as the UX Prototyper for this project to aid UX Designers in the concepts exploration. These prototypes are built using Framer with the implementation of MapboxGl JS to best simulate maps in a prototype, alongside Sketch and Adobe Illustrator for visual assets.
 
