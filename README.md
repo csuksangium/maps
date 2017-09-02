@@ -8,7 +8,7 @@ This redesign exploration aims to improve the map's functionality and user-exper
 # Current Key Issues with Agoda's Mobile Application Map
 1. Property pins show insufficient information; this forces the user to zoom-in or click on pins to reveal more information, most importantly, pricing.
 
-Lowest zoom level pins                                                                                                   
+Lowest zoom level pins  > Middle zoom level pins 
 ![img](http://i.imgur.com/UHR6lF0.png?1)  ![img](http://i.imgur.com/EHLtXm0.png?1)
 
 
