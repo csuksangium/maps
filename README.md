@@ -23,3 +23,5 @@ With those fixes in mind and 10 explorations created, we proposed 2 concepts.
 Concept 1 is the less farfetched exploration among the two because it maintains most of Agoda's current elements, but addresses the issues while also introducing new features to enhance user-experience. The idea behind this concept is
 
 The following prototypes shown below are recorded with Quicktime Player.
+
+Addresses issues by...
