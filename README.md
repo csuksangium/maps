@@ -14,6 +14,7 @@ Minimum zoom level pins &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 
 Maximum zoom level pins (finally show pricing)
+
 ![img](http://i.imgur.com/2ZqdOjl.png?1)
 
 
