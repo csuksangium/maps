@@ -1,4 +1,4 @@
-# Maps
+# Maps Exploration and Redesign
 My works and contributions in Agoda's mobile-application map redesign and exploration as a UX Prototyper Intern in collaboration with UX Designers, UX Researchers, and Product Owners during summer 2017.
 
 This redesign exploration aims to improve the map's functionality and user-experience, so the icons and visuals are not the main concern.
