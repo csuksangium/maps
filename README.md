@@ -13,14 +13,14 @@ This redesign exploration aims to improve the map's functionality and user-exper
 2. Upon selecting a property pin, property information card appears at selected location, covering up neigbouring properties thus preventing users from conveniently comparing nearby property prices.
 
 # Steps Taken to Address the Issues
-1. Pin redesign: new pin is introduced to contain property price, which is believed to be the most important information for customers when it comes to choosing a property. However, larger pin means that pins would be cluttered and overlapping at lower zoom levels, so this was another problem to consider in the exploration.
+1. Pin redesign: new pin is introduced to contain property price. However, larger pin means that pins would be cluttered and overlapping at lower zoom levels, so this was another problem to consider in the exploration.
 
 2. Implementation of property cards: property cards appear upon selection at the bottom of the screen to not obstruct neighbouring properties.
 
 With those fixes in mind and 10 explorations created, 2 concepts were proposed. 
 
 # Concept 1
-Concept 1 is the less farfetched exploration among the two because it maintains most of Agoda's current elements, but addresses the issues while also introducing new features to enhance user-experience. The idea behind this concept is
+Concept 1 is the less farfetched exploration among the two because it maintains most of Agoda's current elements, but addresses the current map issues while also introducing new experimental features to enhance user-experience. The idea behind this concept is
 
 The following prototypes shown below are recorded with Quicktime Player.
 
