@@ -11,7 +11,10 @@ This redesign exploration aims to improve the map's functionality and user-exper
 Lowest zoom level pins                                                                                                   
 ![img](http://i.imgur.com/UHR6lF0.png?1)  
 
+
+
 Middle zoom level pins
+
 ![img](http://i.imgur.com/EHLtXm0.png?1)
 
 
