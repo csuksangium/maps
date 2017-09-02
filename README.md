@@ -8,5 +8,9 @@ This redesign exploration aims to improve the map's functionality and user-exper
 
 2. Upon selecting a property pin, property information card appears at selected location, covering up neigbouring properties thus preventing users from conveniently comparing nearby property prices.
 
-# Steps We Took to Address the Issues
-1. Pin redesign: new pin is introduced 
+# Steps We Took to Address the Issues in the Redesign Explorations
+1. Pin redesign: new pin is introduced to contain property price, which is believed to be the most important information for customers when it comes to choosing a property. However, larger pin means that pins would be cluttered and overlapping at lower zoom levels.
+
+2. Implementation of property cards: property cards appear upon selection at the bottom of the screen to not obstruct neighbouring properties.
+
+With those fixes in mind and 10 total prototypes, we proposed 2 concepts. 
