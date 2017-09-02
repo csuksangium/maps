@@ -3,7 +3,7 @@ My works and contributions in Agoda's mobile-application map redesign and explor
 
 Agoda's current state of map in mobile applications (Android and iOS) demands redesign, so I was tasked as the UX Prototyper for this project to aid UX Designers in the concepts exploration. These prototypes are built using Framer (CoffeeScript) with the integration of MapboxGl JS to best simulate maps in a prototype, alongside Sketch and Adobe Illustrator for visual assets.
 
-This redesign exploration aims to improve the map's functionality and user-experience, so the icons and visuals are not the main concern.
+This redesign exploration aims to improve the map's functionality and user-experience, so the icons and visuals are rough concepts and by no means finalized.
 
 ## Current Key Issues with Agoda's Mobile Application Map
 1. Property pins show insufficient information; this forces the user to zoom-in or click on pins to reveal more information, most importantly, pricing.
