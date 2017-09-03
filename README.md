@@ -40,4 +40,6 @@ The following prototypes shown below are recorded with Quicktime Player.
 
 Addresses issues by...
 
+<iframe src='//gifs.com/embed/cluster-zoom-r0KPX4' frameborder='0' scrolling='no' width='718px' height='1280px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
 [![Alt text](https://img.youtube.com/vi/KRKDliJczms/0.jpg)](https://www.youtube.com/watch?v=KRKDliJczms)
