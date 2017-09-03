@@ -42,6 +42,6 @@ Addresses issues by...
 
 The gif of the prototype demonstrates clustering of pins to handle overlapping of large and redesigned pins.
 
-![Output sample](https://github.com/csuksangium/maps/blob/master/gif.gif)
+![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize.gif)
 
 [![Alt text](https://img.youtube.com/vi/KRKDliJczms/0.jpg)](https://www.youtube.com/watch?v=KRKDliJczms)
