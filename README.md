@@ -40,4 +40,4 @@ The following prototypes shown below are recorded with Quicktime Player.
 
 Addresses issues by...
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=KRKDliJczms&feature=youtu.be)
+[![Alt text](https://img.youtube.com/vi/KRKDliJczms/0.jpg)](https://www.youtube.com/watch?v=KRKDliJczms)
