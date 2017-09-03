@@ -39,3 +39,5 @@ Concept 1 is the less farfetched exploration among the two because it maintains 
 The following prototypes shown below are recorded with Quicktime Player.
 
 Addresses issues by...
+
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=KRKDliJczms&feature=youtu.be)
