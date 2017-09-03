@@ -40,6 +40,6 @@ The following prototypes shown below are recorded with Quicktime Player.
 
 Addresses issues by...
 
-![Output sample](https://j.gifs.com/r0KPX4.gif)
+![Output sample](https://github.com/csuksangium/maps/blob/master/gif.gif)
 
 [![Alt text](https://img.youtube.com/vi/KRKDliJczms/0.jpg)](https://www.youtube.com/watch?v=KRKDliJczms)
