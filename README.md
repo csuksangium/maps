@@ -77,3 +77,6 @@ The video below shows a full demonstration of the Concept 2 map prototype:
 
 
 All prototypes are recorded with Quicktime Player.
+
+Chanan Suksangium Maps Redesign & Exploration - UX Prototyper Intern with Agoda Design Team (Summer 2017)
+August 16th 2017
