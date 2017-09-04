@@ -54,12 +54,12 @@ The video below shows a full demonstration of the Concept 1 map prototype:
 
 
 ## Concept 2
-Concept 2 is more of an experimental exploration with the redesigned pins, but pin overlapping is handled by limiting property on map rather than using clusters like Concept 1; this is done by maintaining a corresponding relationship between list view and some measures taken in the exploration so users do not get lost between view switch include:
+Concept 2 is more of an experimental exploration with the redesigned pins, but pin overlapping is handled by limiting number of properties on map rather than using clusters like Concept 1; this is done by maintaining a corresponding relationship between list view and map view. Some features introduced in Concept 2 so users do not get lost between view switch include:
 1. Numbered property in list view and property card in map view to establish a relationship.
 2. Selected property in list or map view will still be selected upon view switch.
 3. Larger access to map view for ease of switch and encouragement of usage of map.
 
-From benchmarking various mobile application maps of other online travel agencies that limit properties on the map, 20 seems be the most consistent number (but we experimented with 10 for this prototype). Concept 2 explored limiting properties by showing properties on the map view in sets of 10 from list view (for example, app displays properties 1 to 10 on map, but displays properties 11 to 20 upon scrolling past property 10 in list view. Perhaps concept will be more comprehensible after watching the video of the prototype below)
+From benchmarking various mobile application maps of other online travel agencies that limit properties on the map, 20 seems be the most consistent number of maximum properties on the map (but we experimented with 10 for this prototype). Concept 2 explores limiting properties by showing properties on the map view in sets of 10 according to list view (for example, map initially displays properties 1 to 10, but displays properties 11 to 20 upon scrolling past property 10 in list view because we reach a new set. Perhaps Concept 2 will be more easy to understand after watching the video of the prototype below since it is rather difficult to explain with pure words)
 
 Additional features introduced into Concept 2 include:
 1. Top filter bar
@@ -78,6 +78,6 @@ The video below shows a full demonstration of the Concept 2 map prototype:
 
 All prototypes are recorded with Quicktime Player.
 
-Maps Redesign & Exploration - UX Prototyper Intern with Agoda Product & Design Team (Summer 2017)
+Maps Redesign & Exploration Project - UX Prototyper Intern with Agoda Product & Design Team (Summer 2017)
 
 Chanan (Champ) Suksangium &nbsp;&nbsp; (Presentation date: August 16th 2017)
