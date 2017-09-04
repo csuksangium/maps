@@ -78,6 +78,6 @@ The video below shows a full demonstration of the Concept 2 map prototype:
 
 All prototypes are recorded with Quicktime Player.
 
-Maps Redesign & Exploration - UX Prototyper Intern with Agoda Design Team (Summer 2017)
+Maps Redesign & Exploration - UX Prototyper Intern with Agoda Product & Design Team (Summer 2017)
 
 Chanan (Champ) Suksangium &nbsp;&nbsp; (Presentation date: August 16th 2017)
