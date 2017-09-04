@@ -64,4 +64,11 @@ Additional features introduced into Concept 2 include:
 1. Top filter bar
 2. Bottom-anchored property cards
 
+
+Concept 2 
+
+The video below shows a full demonstration of the Concept 2 map prototype:
+
+[![Alt text](https://img.youtube.com/vi/yHukK8r_hfI/0.jpg)](https://www.youtube.com/watch?v=yHukK8r_hfI)
+
 The prototypes are recorded with Quicktime Player.
