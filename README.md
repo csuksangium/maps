@@ -46,6 +46,6 @@ Addresses issues by...
 
 Concept 1 pin clustering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concept 1 map filters with property and filter cards
 
-![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize.gif)&nbsp;&nbsp;![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize%20(2).gif)
+![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize.gif)&nbsp;&nbsp;![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize%20(3).gif)
 
 [![Alt text](https://img.youtube.com/vi/KRKDliJczms/0.jpg)](https://www.youtube.com/watch?v=KRKDliJczms)
