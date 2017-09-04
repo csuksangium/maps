@@ -65,7 +65,10 @@ Additional features introduced into Concept 2 include:
 2. Bottom-anchored property cards
 
 
-Concept 2 
+Concept 2 Top Filter Bar
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concept 2
+
+![Output sample](https://github.com/csuksangium/maps/blob/master/run7TopFilter.gif)
 
 The video below shows a full demonstration of the Concept 2 map prototype:
 
