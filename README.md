@@ -46,8 +46,11 @@ Concept 1 pin clustering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize.gif)&nbsp;&nbsp;![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize%20(3).gif)
 
 
-The video below shows a full demonstration of the Concept 1 map prototype
+The video below shows a full demonstration of the Concept 1 map prototype:
 
 [![Alt text](https://img.youtube.com/vi/KRKDliJczms/0.jpg)](https://www.youtube.com/watch?v=KRKDliJczms)
+
+
+## Concept 2
 
 The prototypes are recorded with Quicktime Player.
