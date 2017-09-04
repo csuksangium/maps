@@ -38,13 +38,13 @@ Concept 1 is the less farfetched exploration among the two because it maintains 
 1. Pin redesign to display the prices of the property
 2. Clustering/grouping of pins to minimize overlapping due to larger pins introduced
 3. Commonly used filters on map for users to display attractions/key locations on map
-4. Redesigned property cards that anchor at the bottom to not obstruct properties upon selection
+4. Redesigned swipable property cards that anchor at the bottom to not obstruct properties upon selection
 
 The following prototypes shown below are recorded with Quicktime Player.
 
 Addresses issues by...
 
-Concept 1 pin clustering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concept 1 map filters
+Concept 1 pin clustering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concept 1 map filters with property and filter cards
 
 ![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize.gif)&nbsp;&nbsp;![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize%20(2).gif)
 
