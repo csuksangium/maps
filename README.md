@@ -39,6 +39,8 @@ Concept 1 is the less farfetched exploration among the two because it maintains 
 2. Clustering/grouping of pins to minimize overlapping due to larger pins introduced
 3. Commonly used filters on map for users to display attractions/key locations on map
 4. Redesigned swipable property cards that anchor at the bottom to not obstruct properties upon selection
+5. Area/district selection at the minimum zoom level
+6. Floating filter button
 
 
 Concept 1 pin clustering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concept 1 map filters with property cards and filter cards
@@ -56,5 +58,9 @@ Concept 2 is more of an experimental exploration with the redesigned pins, but p
 1. Numbered property in list view and property card in map view to establish a relationship.
 2. Selected property in list or map view will still be selected upon view switch.
 3. Larger access to map view for ease of switch and encouragement of usage of map.
-From benchmarking various mobile application maps of other online travel agencies, 20 properties seem to be the limit on a map (we experimented with 10 for this prototype). 
+From benchmarking various mobile application maps of other online travel agencies that limit properties on the map, 20 seems be the most consistent number (but we experimented with 10 for this prototype). Concept 2 explored limiting properties by showing properties on the map view in sets of 10 from list view (for example, app displays properties 1 to 10 on map, but displays properties 11 to 20 upon scrolling past property 10 in list view. Perhaps concept will be more comprehensible after watching the video of the prototype below)
+Additional features introduced into Concept 2 include:
+1. Top filter bar
+2. Bottom-anchored property cards
+
 The prototypes are recorded with Quicktime Player.
