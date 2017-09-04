@@ -66,9 +66,9 @@ Additional features introduced into Concept 2 include:
 
 
 Concept 2 Top Filter Bar
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concept 2
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concept 2 List-Map View Switch
 
-![Output sample](https://github.com/csuksangium/maps/blob/master/run7TopFilter.gif)
+![Output sample](https://github.com/csuksangium/maps/blob/master/run7TopFilter.gif)&nbsp;&nbsp;![Output sample](https://github.com/csuksangium/maps/blob/master/2Set.gif)
 
 The video below shows a full demonstration of the Concept 2 map prototype:
 
