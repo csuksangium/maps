@@ -26,7 +26,7 @@ Property information appears upon clicked
 
 ![img](http://i.imgur.com/B9Ue80n.png?1)
 
-## Steps Taken to Address the Issues
+## Steps Taken in this Project to Address the Issues
 1. Pin redesign: new pin is introduced to contain property price. However, larger pin means that pins would be cluttered and overlapping at lower zoom levels, so this was another problem to consider in the exploration.
 
 2. Implementation of property cards: property cards appear upon selection at the bottom of the screen to not obstruct neighbouring properties.
