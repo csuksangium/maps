@@ -80,4 +80,4 @@ All prototypes are recorded with Quicktime Player.
 
 Maps Redesign & Exploration - UX Prototyper Intern with Agoda Design Team (Summer 2017)
 
-Chanan Suksangium &nbsp;&nbsp; August 16th 2017
+Chanan Suksangium &nbsp;&nbsp; (Presentation date: August 16th 2017)
