@@ -52,5 +52,9 @@ The video below shows a full demonstration of the Concept 1 map prototype:
 
 
 ## Concept 2
-
+Concept 2 is more of an experimental exploration with the redesigned pins, but pin overlapping is handled by limiting property on map rather than using clusters like Concept 1; this is done by maintaining a corresponding relationship between list view and some measures taken in the exploration so users do not get lost between view switch include:
+1. Numbered property in list view and property card in map view to establish a relationship.
+2. Selected property in list or map view will still be selected upon view switch.
+3. Larger access to map view for ease of switch and encouragement of usage of map.
+From benchmarking various mobile application maps of other online travel agencies, 20 properties seem to be the limit on a map (we experimented with 10 for this prototype). 
 The prototypes are recorded with Quicktime Player.
