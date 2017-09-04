@@ -67,7 +67,7 @@ Additional features introduced into Concept 2 include:
 
 
 Concept 2 Top Filter Bar
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concept 2 List-Map View Switch
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concept 2 List-Map Corresponding View Switch
 
 ![Output sample](https://github.com/csuksangium/maps/blob/master/run7TopFilter.gif)&nbsp;&nbsp;![Output sample](https://github.com/csuksangium/maps/blob/master/2Set.gif)
 
@@ -75,4 +75,5 @@ The video below shows a full demonstration of the Concept 2 map prototype:
 
 [![Alt text](https://img.youtube.com/vi/yHukK8r_hfI/0.jpg)](https://www.youtube.com/watch?v=yHukK8r_hfI)
 
-The prototypes are recorded with Quicktime Player.
+
+All prototypes are recorded with Quicktime Player.
