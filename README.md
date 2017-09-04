@@ -34,18 +34,20 @@ Property information appears upon clicked
 With those fixes in mind and 10 explorations created, 2 concepts were proposed. 
 
 ## Concept 1
-Concept 1 is the less farfetched exploration among the two because it maintains most of Agoda's current elements, but addresses the current map issues while also introducing new experimental features to enhance user-experience. The idea behind this concept is:
+Concept 1 is the less farfetched exploration among the two because it maintains most of Agoda's current elements, but addresses the current map issues while also introducing new experimental features to enhance user-experience. The major features and changes introduced to Concept 1 include:
 1. Pin redesign to display the prices of the property
 2. Clustering/grouping of pins to minimize overlapping due to larger pins introduced
 3. Commonly used filters on map for users to display attractions/key locations on map
 4. Redesigned swipable property cards that anchor at the bottom to not obstruct properties upon selection
 
-The following prototypes shown below are recorded with Quicktime Player.
-
-Addresses issues by...
 
 Concept 1 pin clustering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concept 1 map filters with property cards and filter cards
 
 ![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize.gif)&nbsp;&nbsp;![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize%20(3).gif)
 
+
+The video below shows a full demonstration of the Concept 1 map prototype
+
 [![Alt text](https://img.youtube.com/vi/KRKDliJczms/0.jpg)](https://www.youtube.com/watch?v=KRKDliJczms)
+
+The prototypes are recorded with Quicktime Player.
