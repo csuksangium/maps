@@ -44,4 +44,4 @@ Concept 1 pin clustering
 
 ![Output sample](https://github.com/csuksangium/maps/blob/master/ezgif.com-resize.gif)
 
-[![Alt text](https://img.youtube.com/vi/KRKDliJczms/0.jpg)](https://www.youtube.com/watch?v=KRKDliJczms)
+[![Alt text](https://img.youtube.com/vi/KRKDliJczms/0.jpg)](https://www.youtube.com/watch?v=KRKDliJczms)https://github.com/csuksangium/maps/blob/master/ezgif.com-resize%20(1).gif
