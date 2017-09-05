@@ -76,8 +76,11 @@ The video below shows a full demonstration of the Concept 2 map prototype:
 [![Alt text](https://img.youtube.com/vi/yHukK8r_hfI/0.jpg)](https://www.youtube.com/watch?v=yHukK8r_hfI)
 
 
+These two concepts have been proposed to design leads and products owners on August 16th 2017. The two prototypes are planned for user-testing and the project has been passed onto new designers and prototypers as maps redesign enters its second stage where features and visuals will continued to be polished.
+
+
 All prototypes are recorded with Quicktime Player.
 
 Maps Redesign & Exploration Project - UX Prototyper Intern with Agoda Product & Design Team (Summer 2017)
 
-Chanan (Champ) Suksangium &nbsp;&nbsp; (Presentation date: August 16th 2017)
+Chanan (Champ) Suksangium
